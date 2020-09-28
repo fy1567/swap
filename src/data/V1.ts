@@ -14,7 +14,7 @@ import {
   Trade,
   TradeType,
   WBNB
-} from 'bsc-sdk'
+} from 'swap-bsc-sdk'
 import { useMemo } from 'react'
 import { useActiveWeb3React } from '../hooks'
 import { useAllTokens } from '../hooks/Tokens'

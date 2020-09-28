@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, ETHER, JSBI, Pair, Percent, Price, TokenAmount } from 'bsc-sdk'
+import { Currency, CurrencyAmount, ETHER, JSBI, Pair, Percent, Price, TokenAmount } from 'swap-bsc-sdk'
 import { useCallback, useMemo } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { PairState, usePair } from '../../data/Reserves'

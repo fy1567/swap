@@ -1,4 +1,4 @@
-import { ChainId, Currency, currencyEquals, JSBI, Price, WBNB } from 'bsc-sdk'
+import { ChainId, Currency, currencyEquals, JSBI, Price, WBNB } from 'swap-bsc-sdk'
 import { useMemo } from 'react'
 import { BUSD } from '../constants'
 import { PairState, usePairs } from '../data/Reserves'

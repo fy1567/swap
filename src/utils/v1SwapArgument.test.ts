@@ -1,4 +1,4 @@
-import { CurrencyAmount, ETHER, Percent, Route, TokenAmount, Trade } from 'bsc-sdk'
+import { CurrencyAmount, ETHER, Percent, Route, TokenAmount, Trade } from 'swap-bsc-sdk'
 import { DAI, BUSD } from '../constants'
 import { MockV1Pair } from '../data/V1'
 import v1SwapArguments from './v1SwapArguments'

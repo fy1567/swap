@@ -1,6 +1,6 @@
 import React, { useContext, useMemo } from 'react'
 import { ThemeContext } from 'styled-components'
-import { Pair } from 'bsc-sdk'
+import { Pair } from 'swap-bsc-sdk'
 import { Link } from 'react-router-dom'
 import { SwapPoolTabs } from '../../components/NavigationTabs'
 

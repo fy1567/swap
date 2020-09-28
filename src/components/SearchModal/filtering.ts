@@ -1,5 +1,5 @@
 import { isAddress } from '../../utils'
-import { Token } from 'bsc-sdk'
+import { Token } from 'swap-bsc-sdk'
 
 export function filterTokens(tokens: Token[], search: string): Token[] {
   if (search.length === 0) return tokens

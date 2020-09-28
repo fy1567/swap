@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from 'bsc-sdk'
+import { Token, TokenAmount } from 'swap-bsc-sdk'
 import { useMemo } from 'react'
 import { useAllTokenBalances } from '../../state/wallet/hooks'
 

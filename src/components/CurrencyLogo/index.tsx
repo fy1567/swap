@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from 'bsc-sdk'
+import { Currency, ETHER, Token } from 'swap-bsc-sdk'
 import React, { useMemo } from 'react'
 import styled from 'styled-components'
 

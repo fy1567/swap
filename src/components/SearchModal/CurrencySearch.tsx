@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from 'bsc-sdk'
+import { Currency, ETHER, Token } from 'swap-bsc-sdk'
 import React, { KeyboardEvent, RefObject, useCallback, useContext, useEffect, useMemo, useRef, useState } from 'react'
 import ReactGA from 'react-ga'
 import { useTranslation } from 'react-i18next'

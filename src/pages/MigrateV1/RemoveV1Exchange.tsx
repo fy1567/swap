@@ -1,5 +1,5 @@
 import { TransactionResponse } from '@ethersproject/abstract-provider'
-import { JSBI, Token, TokenAmount, WBNB, Fraction, Percent, CurrencyAmount } from 'bsc-sdk'
+import { JSBI, Token, TokenAmount, WBNB, Fraction, Percent, CurrencyAmount } from 'swap-bsc-sdk'
 import React, { useCallback, useMemo, useState } from 'react'
 import ReactGA from 'react-ga'
 import { Redirect, RouteComponentProps } from 'react-router'

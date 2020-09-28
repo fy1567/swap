@@ -1,4 +1,4 @@
-import { ChainId } from 'bsc-sdk'
+import { ChainId } from 'swap-bsc-sdk'
 import React, { useContext } from 'react'
 import styled, { ThemeContext } from 'styled-components'
 import Modal from '../Modal'

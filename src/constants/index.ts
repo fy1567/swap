@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Percent, Token, WBNB } from 'bsc-sdk'
+import { ChainId, JSBI, Percent, Token, WBNB } from 'swap-bsc-sdk'
 import { AbstractConnector } from '@web3-react/abstract-connector'
 
 import { injected } from '../connectors'

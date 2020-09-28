@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import { Link, RouteComponentProps, withRouter } from 'react-router-dom'
-import { Token, TokenAmount, WBNB } from 'bsc-sdk'
+import { Token, TokenAmount, WBNB } from 'swap-bsc-sdk'
 
 import { Text } from 'rebass'
 import { AutoColumn } from '../Column'

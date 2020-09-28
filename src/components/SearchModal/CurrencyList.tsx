@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, currencyEquals, ETHER, Token } from 'bsc-sdk'
+import { Currency, CurrencyAmount, currencyEquals, ETHER, Token } from 'swap-bsc-sdk'
 import React, { CSSProperties, MutableRefObject, useCallback, useMemo } from 'react'
 import { FixedSizeList } from 'react-window'
 import { Text } from 'rebass'

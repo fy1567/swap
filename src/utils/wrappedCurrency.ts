@@ -1,4 +1,4 @@
-import { ChainId, Currency, CurrencyAmount, ETHER, Token, TokenAmount, WBNB } from 'bsc-sdk'
+import { ChainId, Currency, CurrencyAmount, ETHER, Token, TokenAmount, WBNB } from 'swap-bsc-sdk'
 
 export function wrappedCurrency(currency: Currency | undefined, chainId: ChainId | undefined): Token | undefined {
   return chainId && currency === ETHER ? WBNB[chainId] : currency instanceof Token ? currency : undefined

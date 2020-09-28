@@ -1,4 +1,4 @@
-import { Currency } from 'bsc-sdk'
+import { Currency } from 'swap-bsc-sdk'
 import React, { useCallback, useEffect, useState } from 'react'
 import ReactGA from 'react-ga'
 import useLast from '../../hooks/useLast'

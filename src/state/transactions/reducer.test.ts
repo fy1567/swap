@@ -1,4 +1,4 @@
-import { ChainId } from 'bsc-sdk'
+import { ChainId } from 'swap-bsc-sdk'
 import { createStore, Store } from 'redux'
 import { addTransaction, checkedTransaction, clearAllTransactions, finalizeTransaction } from './actions'
 import reducer, { initialState, TransactionState } from './reducer'

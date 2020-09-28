@@ -1,5 +1,5 @@
 import { BigNumber } from '@ethersproject/bignumber'
-import { Token, TokenAmount } from 'bsc-sdk'
+import { Token, TokenAmount } from 'swap-bsc-sdk'
 import { useTokenContract } from '../hooks/useContract'
 import { useSingleCallResult } from '../state/multicall/hooks'
 

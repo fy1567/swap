@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Fraction, Percent } from 'bsc-sdk'
+import { Currency, CurrencyAmount, Fraction, Percent } from 'swap-bsc-sdk'
 import React from 'react'
 import { Text } from 'rebass'
 import { ButtonPrimary } from '../../components/Button'
