@@ -5,7 +5,7 @@
   "private": true,
   "license": "GNU LGPL-v3.0",
   "dependencies": {
-    "swap-bsc-sdk": "^1.1.0"
+    "swap-bsc-sdk": "^1.1.1"
   },
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
